@@ -1,1 +1,11 @@
-settings.config
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+mlruns/
+mlflow.db
+mlflow.db-journal
+mlflow.db-wal
+mlflow.db-shm
+.venv/
+venv/
